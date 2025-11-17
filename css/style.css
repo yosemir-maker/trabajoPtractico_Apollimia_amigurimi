@@ -78,6 +78,12 @@ p {
   margin: auto;
   font-family: "Cabin", sans-serif;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .iconos {
   display: block;
   margin: auto;
